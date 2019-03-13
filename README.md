@@ -6,16 +6,16 @@ Examples:
   1,400,000
 
 Classes:
-  Society & Culture
-  Science & Mathematics
-  Health
-  Education & Reference
-  Computers & Internet
-  Sports
-  Business & Finance
-  Entertainment & Music
-  Family & Relationships
-  Politics & Government
+  1:  Society & Culture
+  2:  Science & Mathematics
+  3:  Health
+  4:  Education & Reference
+  5:  Computers & Internet
+  6:  Sports
+  7:  Business & Finance
+  8:  Entertainment & Music
+  9:  Family & Relationships
+  10: Politics & Government
 
 
 Description of dataset:
